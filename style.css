@@ -26,6 +26,7 @@ body {
     font-weight: bold;
     cursor: pointer;
     display: block;
+    margin-top: 300px;
     margin-bottom: 20px;
 }
 
